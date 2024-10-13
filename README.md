@@ -12,9 +12,9 @@ Requires [Chart.js](https://github.com/chartjs/Chart.js/releases) **3.4.0** or l
 
 ## Documentation
 
-- [Installation](https://chartjs-plugin-crosshair.netlify.com/installation)
-- [Options](https://chartjs-plugin-crosshair.netlify.com/options)
-- [Samples](https://chartjs-plugin-crosshair.netlify.com/samples)
+- [Installation](https://chartjs-plugin-crosshair.netlify.app/installation)
+- [Options](https://chartjs-plugin-crosshair.netlify.app/options)
+- [Samples](https://chartjs-plugin-crosshair.netlify.app/samples)
 
 ## Example
 
